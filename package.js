@@ -10,9 +10,9 @@ Package.onUse(function (api) {
   api.use('jquery@1.0.0', 'client');
 
   api.addFiles('component.css', 'client');
-  api.addFiles('nap.svg-min.js', 'client');
+  api.addFiles('snap.svg-min.js', 'client');
   api.addFiles('classie.js', 'client');
   api.addFiles('svgLoader.js', 'client');
-  api.addFiles('img', 'client');
+  api.addFiles('preloader.gif', 'client');
 
 });

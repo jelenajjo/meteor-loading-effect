@@ -13,6 +13,6 @@ Package.onUse(function (api) {
   api.addFiles('snap.svg-min.js', 'client');
   api.addFiles('classie.js', 'client');
   api.addFiles('svgLoader.js', 'client');
-  api.addFiles('preloader.gif', 'client');
+  api.addFiles('img/preloader.gif', 'client');
 
 });
